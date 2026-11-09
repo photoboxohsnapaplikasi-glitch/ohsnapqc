@@ -1,0 +1,32 @@
+{
+  "cloudBackendUrl": "",
+  "autoSyncOnLoad": true,
+  "autoSyncIntervalSec": 300,
+  "branchSheetUrls": {
+    "Cilacap": {
+      "userUrl": "",
+      "gaboothUrl": "",
+      "status": "Siap Sinkron"
+    },
+    "Majenang": {
+      "userUrl": "",
+      "gaboothUrl": "",
+      "status": "Siap Sinkron"
+    },
+    "Pemalang": {
+      "userUrl": "",
+      "gaboothUrl": "",
+      "status": "Siap Sinkron"
+    },
+    "Pekalongan": {
+      "userUrl": "",
+      "gaboothUrl": "",
+      "status": "Siap Sinkron"
+    },
+    "Kediri": {
+      "userUrl": "",
+      "gaboothUrl": "",
+      "status": "Siap Sinkron"
+    }
+  }
+}
