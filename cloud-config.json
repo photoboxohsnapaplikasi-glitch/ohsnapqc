@@ -1,0 +1,34 @@
+{
+  "appName": "Gabooth QC & Rekonsiliasi Kasir Multi-Device",
+  "version": "3.6.0",
+  "cloudBackendUrl": "https://script.google.com/macros/s/AKfycbw-hrdX9Ts6lSer3oyWyMUg2LwKbAMuDv_-7kEz9xSBqsQucCVwCAAjg8Hq69VB1I7J/exec",
+  "autoSyncIntervalSec": 25,
+  "autoSyncOnLoad": true,
+  "branchSheetUrls": {
+    "Cilacap": {
+      "userUrl": "https://docs.google.com/spreadsheets/d/16lvV4nhtPxAH8jBLiO6Bh5RojBT_bJUQSW5rnU9jU_E/edit?usp=sharing",
+      "gaboothUrl": "",
+      "status": "✅ Tersinkron (21 brs)"
+    },
+    "Majenang": {
+      "userUrl": "https://docs.google.com/spreadsheets/d/1VJXxlXKew3Jw2jowELjciVzsUKYzbsTvzSajTR1l9fQ/edit?usp=sharing",
+      "gaboothUrl": "",
+      "status": "✅ Tersinkron (28 brs)"
+    },
+    "Pemalang": {
+      "userUrl": "https://docs.google.com/spreadsheets/d/1xGWr7qT4zPcw1C32muraAgZrIJ54WiKnMHG6creqZH4/edit?usp=sharing",
+      "gaboothUrl": "",
+      "status": "✅ Tersinkron (21 brs)"
+    },
+    "Pekalongan": {
+      "userUrl": "https://docs.google.com/spreadsheets/d/1e-ZI2i9aVH-We0dIQSKL-D2CkPd_8Rt6w-O9RPZ89EQ/edit?usp=sharing",
+      "gaboothUrl": "",
+      "status": "✅ Tersinkron (22 brs)"
+    },
+    "Kediri": {
+      "userUrl": "https://docs.google.com/spreadsheets/d/1Onr0Dqr711GiJ7S07vh_XqPWWCma4BgRAgRcUKgLsMI/edit?usp=sharing",
+      "gaboothUrl": "",
+      "status": "✅ Tersinkron (18 brs)"
+    }
+  }
+}
